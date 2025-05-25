@@ -80,8 +80,8 @@ See the [`hotel_booking.sql`](./hotel_booking.sql) file for full queries.
 📦 Hotel_Booking_Analysis
 ├── hotel_booking.sql           # SQL file for all analysis queries
 ├── PowerBI_Dashboard.pbix      # Power BI report file (optional)
-├── Screenshot1.png             # Executive Summary page
-├── Screenshot2.png             # Guest Behavior page
+├── executive_summary.png             # Executive Summary page
+├── guest_behavior.png             # Guest Behavior page
 └── README.md                   # This file
 ```
 
